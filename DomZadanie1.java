@@ -2,6 +2,7 @@
 * Java Basic. Home work #1
 *
 *@author Veronika
+*05.09-2022
 *@11.09-2022
 *
 */

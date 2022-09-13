@@ -17,25 +17,27 @@ class DomZadanie1 {
         System.out.println("Area = " + s);
         
         // home2
-        a = 3;
+        a = 13;
         b = 5;
-        int c = a+b;
+        float d = b;
+        int c = a + b;
         System.out.println(c);
-        c = a-b;
+        c = a - b;
         System.out.println(c);
-        c = a*b;
+        c = a * b;
         System.out.println(c);
-        c = a/b;
+        d = (float)a / b;
         System.out.println(c);
         
         // home3
         int[] myArray = {118, 96, 87, 44, 63};
-        //System.out.println(myArray[0], myArray[1], myArray[2], myArray[3], myArray[4]); - does not work, I do not understand why?
+        System.out.println(myArray[0] + myArray[1] + myArray[2] + myArray[3] + myArray[4]);
+        
         System.out.println(myArray[0]);
         System.out.println(myArray[1]);
         System.out.println(myArray[2]);
         System.out.println(myArray[3]);
-        System.out.println(myArray[4]);        
+        System.out.println(myArray[4]);
         
-    }
+        }
 }

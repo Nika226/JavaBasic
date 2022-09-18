@@ -2,7 +2,8 @@
 /**
 * Java Basic. Home work #4
 *
-*@author Veronika
+*@author  Антон Кашников, переписала Вероника. "Создание игры Морской Бой на Java с нуля".
+ Автор Антон Кашников. Переписала с ютуб вручную, анализируя код, следуя вашему совету, что нужно как можно больше писать.  
 *@tod 14.09-2022
 *@date 15.09-17.09.2022
 *
@@ -11,10 +12,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
  // home3   
-    public class Battleship { 
-    
-// Создание игры Морской Бой на Java с нуля. Автор Антон Кашников. Переписала с ютуб вручную, анализируя код, следуя вашему совету, что нужно как можно больше писать.  
-
+    public class Battleship {     
 
     static String playerName1 = "Player#1";
     static String playerName2 = "Player#2";

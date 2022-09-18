@@ -41,5 +41,5 @@ class DomZadanie4 {
     }
  }
         
-    
+    // Tam bilo prosto 2 ssilki. I vse deystvuyushie
     

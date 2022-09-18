@@ -10,7 +10,7 @@
 
 	import java.util.Scanner;
     import java.util.Random;
-    import java.io.IOException;
+    
 
 class DomZadanie4 {
     public static void main(String[] args) {

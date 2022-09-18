@@ -1,5 +1,5 @@
 /**
-* Java Basic. Home work #1
+* Java Basic. Home work #4
 *
 *@author Veronika
 *@tod 14.09-2022

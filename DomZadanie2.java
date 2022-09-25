@@ -3,7 +3,7 @@
 *
 *@author Veronika
 *@todo 07.09-2022
-*@date 14-21.09-2022
+*@date 13-25.09-2022
 */
 
 class DomZadanie2 {

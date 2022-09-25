@@ -46,10 +46,7 @@ class DomZadanie2 {
     
       // home2
 
-    boolean isWeekend = true;
-    boolean isAmFree = true;
-    boolean isRain = false;
-    boolean isWork = false;
+    public static void Walkary(isWeekend, isAmFree, isRain, isWork){  
     
     if (isWeekend && isAmFree) {
          System.out.println("I can walk");            
@@ -63,24 +60,24 @@ class DomZadanie2 {
         System.out.println("I can walk");
    }
    // home3
-    public class Main { /** U menay uje net nikakih sil ponyat pochemu na home3 rugaetsay kompillaytor.
-    Ay stolko primerov peresmotrela v google. Ostanovilas na etom variante. I vse ravno oshibka(
-    */
-        
-    static int myMethod(int a, int c) {
-        return a + c;
+     
+    public static integer myMethod(int a, int b) { 
+        int d = a + c;    
+        return d;       
      }       
-    static int myMethod2(int a, int c) {
-        return a - c;
+        int m = a - c;
+        return m;
      }        
-    static int myMethod3(int a, int c) {
-        return a * c;
+        int g = a * c;
+        return g;
      }    
-    static float myMethod4(int af, int cf) {
-        return af / cf;
-     }    
+        int p = a * c;
+        return p;
+     }     /** pochemu snova rugaetsay kompillaytor? Dlay kajdogo zadaniay ay realiyovala otdelniy metod, kak Vi skayali.
+     I vse ravno oshibka(
+    */
    }
-}
+ }
 
   
   

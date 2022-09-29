@@ -2,8 +2,8 @@
 * Java Basic. Home work #3
 *
 *@author Veronika
-*@todo 07.09-2022
-*@date 14-21.09-2022
+*@todo 12.09-2022
+*@date 14-29.09-2022
 */
 
 class DomZadanie3 {

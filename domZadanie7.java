@@ -3,8 +3,8 @@
  * Java Basic. Home work #7
  *
  *@author Veronika
- *@todo 05.10.2022
- *@date 06-07.10-2022
+ *@todo 26.09.2022
+ *@date 06-10.10-2022
  *
  */
 

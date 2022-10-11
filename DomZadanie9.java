@@ -1,3 +1,4 @@
+import lesson9.Animal;
 import lesson9.Cats;
 import lesson9.Dogs;
 import lesson9.IAnimal;

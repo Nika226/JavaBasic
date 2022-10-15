@@ -15,10 +15,10 @@ public class DomZadanie10 extends JFrame {
     private Random random = new Random();
 
     public static void main(String[] args) {
-        new domZadanie10();
+        new DomZadanie10();
     }
 
-    public domZadanie10() {
+    public DomZadanie10() {
         setTitle("Hello Swing");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 

@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 /**
- * Java Basic. Home work #8
+ * Java Basic. Home work #11
  *
  *@author Veronika
  *@todo 12.10.2022
